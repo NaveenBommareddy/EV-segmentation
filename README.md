@@ -46,3 +46,28 @@ ev-segmentation/
 │ └── visualizations/
 ├── README.md
 └── requirements.txt
+
+
+---
+
+## 📷 Visual Insights
+
+- Top EV states by sales and charging infra
+- Vehicle-type sales comparison
+- Monthly EV growth trend
+- Segmentation visualizations (Geo, Demo, Psycho, Behavioral)
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Step 1: Clone the repo
+git clone https://github.com/yourname/ev-segmentation.git
+cd ev-segmentation
+
+# Step 2: Install dependencies
+pip install -r requirements.txt
+
+# Step 3: Launch notebook
+jupyter notebook notebooks/ev_analysis.ipynb

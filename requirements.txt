@@ -1,0 +1,15 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+geopandas  # Optional, if using geospatial analysis
+openpyxl   # Optional, if working with Excel files
+
